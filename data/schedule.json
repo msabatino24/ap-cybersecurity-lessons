@@ -1,0 +1,1809 @@
+[
+  {
+    "i": 0,
+    "date": "2026-08-25",
+    "dateLabel": "Tue, August 25, 2026",
+    "month": "August 2026",
+    "letter": "B",
+    "unitKey": "orientation",
+    "unitLabel": "Orientation",
+    "unitColor": "#5a6472",
+    "topic": "",
+    "stype": "Orientation",
+    "stypeLabel": "Orientation",
+    "title": "Welcome to AP Cybersecurity",
+    "skills": "Course overview",
+    "activity": "Syllabus walkthrough; AP Cybersecurity Exam format (60 MC/80 min, 1 FRQ Device Security Analysis/50 min); intro to the 4 Course Skill categories (Analyze Risk, Mitigate Risk, Detect Attacks, Collaborate); NICE Workforce Framework & career pathways; professional/ethical norms (ISC2 Code of Ethics) preview; CodeHS + Cyber.org account/class-section setup.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity: Course Overview / Getting Started unit",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org: Cybersecurity Career pathway overview (optional intro video)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 1,
+    "date": "2026-08-27",
+    "dateLabel": "Thu, August 27, 2026",
+    "month": "August 2026",
+    "letter": "D",
+    "unitKey": "unit1",
+    "unitLabel": "Unit 1 \u00b7 Introduction to Security",
+    "unitColor": "#2E6DA4",
+    "topic": "1.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Understanding Social Engineering",
+    "skills": "1.A, 1.C",
+    "activity": "Analyze real phishing/vishing examples; identify indicators (urgency, authority, intimidation) and explain impacts of leaked PII.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 1: Social Engineering lessons",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: Social Engineering / Phishing module (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 1A - Detecting Phishing Messages"
+  },
+  {
+    "i": 2,
+    "date": "2026-08-31",
+    "dateLabel": "Mon, August 31, 2026",
+    "month": "August 2026",
+    "letter": "F",
+    "unitKey": "unit1",
+    "unitLabel": "Unit 1 \u00b7 Introduction to Security",
+    "unitColor": "#2E6DA4",
+    "topic": "1.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Suspicious Website Logins & Weak Authentication",
+    "skills": "1.A, 2.A, 2.B",
+    "activity": "Identify signs of online password attacks from a login table; compare passphrases/password managers/MFA as mitigations.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 1: Authentication Risks lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 1B - Detecting Unauthorized Logins"
+  },
+  {
+    "i": 3,
+    "date": "2026-09-02",
+    "dateLabel": "Wed, September 2, 2026",
+    "month": "September 2026",
+    "letter": "H",
+    "unitKey": "unit1",
+    "unitLabel": "Unit 1 \u00b7 Introduction to Security",
+    "unitColor": "#2E6DA4",
+    "topic": "1.3",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Public Wi-Fi, Adversary Types & Wireless Attacks",
+    "skills": "1.A, 1.B, 2.C",
+    "activity": "Classify adversary types (script kiddie to nation-state) by motive/skill; identify evil twin, jamming/DoS, and war driving; practice safe public-Wi-Fi habits (HTTPS, VPN).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 1: Network Risks & Adversaries lessons",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: Wireless network attacks lab (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 1C - Verifying Network Authenticity (coffee-shop evil twin)"
+  },
+  {
+    "i": 4,
+    "date": "2026-09-08",
+    "dateLabel": "Tue, September 8, 2026",
+    "month": "September 2026",
+    "letter": "B",
+    "unitKey": "unit1",
+    "unitLabel": "Unit 1 \u00b7 Introduction to Security",
+    "unitColor": "#2E6DA4",
+    "topic": "1.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "AI-Based Cybersecurity Attacks",
+    "skills": "1.A, 1.B",
+    "activity": "Examine deepfake/voice-cloning and LLM-generated phishing case studies; discuss prompt injection and data-poisoning risks.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 1: AI & Cyberattacks lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 1D - AI-Powered Cyberattacks (voice-cloning scam call)"
+  },
+  {
+    "i": 5,
+    "date": "2026-09-10",
+    "dateLabel": "Thu, September 10, 2026",
+    "month": "September 2026",
+    "letter": "D",
+    "unitKey": "unit1",
+    "unitLabel": "Unit 1 \u00b7 Introduction to Security",
+    "unitColor": "#2E6DA4",
+    "topic": "1.5",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Leveraging AI in Cyber Defense",
+    "skills": "2.A, 3.A",
+    "activity": "Explore how AI tools assist config/code review, detection-rule suggestions, and event triage; discuss human-in-the-loop necessity.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 1: AI for Defense lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 1E - AI-Powered Cyber Defense (AI code-review catches SQL injection)"
+  },
+  {
+    "i": 6,
+    "date": "2026-09-14",
+    "dateLabel": "Mon, September 14, 2026",
+    "month": "September 2026",
+    "letter": "F",
+    "unitKey": "unit1",
+    "unitLabel": "Unit 1 \u00b7 Introduction to Security",
+    "unitColor": "#2E6DA4",
+    "topic": "",
+    "stype": "Assessment",
+    "stypeLabel": "Assessment",
+    "title": "Unit 1 Test: Introduction to Security",
+    "skills": "1.A-1.D, 2.A-2.C",
+    "activity": "Summative assessment covering topics 1.1-1.5 (MC + short written response).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 1 Test / AP Classroom Unit 1 Progress Check",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 7,
+    "date": "2026-09-16",
+    "dateLabel": "Wed, September 16, 2026",
+    "month": "September 2026",
+    "letter": "H",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Social Engineering Taxonomy & Adversary Types (deep dive)",
+    "skills": "1.A, 1.B",
+    "activity": "Map all 7 social-engineering tactics (pretexting, authority, intimidation, consensus, scarcity, familiarity, urgency) to real scenarios; classify adversary categories (script kiddie, hacktivist, insider threat, cyberterrorist, transnational criminal org).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2: Cyber Foundations lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 8,
+    "date": "2026-09-18",
+    "dateLabel": "Fri, September 18, 2026",
+    "month": "September 2026",
+    "letter": "B",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Phases of a Cyberattack",
+    "skills": "1.B, 1.C",
+    "activity": "Walk the attack lifecycle: Reconnaissance (OSINT) -> Initial Access -> Persistence (C2, RAT/rootkit) -> Lateral Movement -> Action -> Evading Detection, using a case-study attack timeline.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2: Cyberattack Phases lessons",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org: OSINT/reconnaissance unplugged activity (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 9,
+    "date": "2026-09-22",
+    "dateLabel": "Tue, September 22, 2026",
+    "month": "September 2026",
+    "letter": "D",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "The Risk Assessment Process",
+    "skills": "1.A, 1.C, 1.D",
+    "activity": "Practice identifying asset/threat/vulnerability triples and computing likelihood x severity; compare quantitative vs. qualitative risk documentation.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2: Risk Assessment lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 10,
+    "date": "2026-09-24",
+    "dateLabel": "Thu, September 24, 2026",
+    "month": "September 2026",
+    "letter": "F",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Risk Management Strategies, Security Controls & Defense-in-Depth",
+    "skills": "2.A, 2.B",
+    "activity": "Compare Avoid/Transfer/Mitigate/Accept strategies and residual risk; classify controls by CIA triad, type (physical/technical/managerial), and function (preventative/detective/corrective); diagram defense-in-depth layers.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2: Security Controls & Defense-in-Depth lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 11,
+    "date": "2026-09-29",
+    "dateLabel": "Tue, September 29, 2026",
+    "month": "September 2026",
+    "letter": "H",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.1",
+    "stype": "Assessment",
+    "stypeLabel": "Assessment",
+    "title": "Quiz: Cyber Foundations (Topic 2.1)",
+    "skills": "1.A-1.D, 2.A-2.B",
+    "activity": "Formative quiz covering risk assessment, risk management strategies, and control types.",
+    "resources": [
+      {
+        "label": "AP Classroom Topic 2.1 formative check",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 12,
+    "date": "2026-10-01",
+    "dateLabel": "Thu, October 1, 2026",
+    "month": "October 2026",
+    "letter": "B",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Physical Vulnerabilities & Attacks",
+    "skills": "1.A, 1.B",
+    "activity": "Identify piggybacking, tailgating, shoulder surfing, dumpster diving, and card cloning; explain how each exploits a physical vulnerability.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2: Physical Attacks lessons",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: Physical security awareness module (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 13,
+    "date": "2026-10-05",
+    "dateLabel": "Mon, October 5, 2026",
+    "month": "October 2026",
+    "letter": "D",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Assessing Physical Risk",
+    "skills": "1.C, 1.D",
+    "activity": "Begin Unit Scenario 2A (Securing Xtensr Labs): review building plans and current controls; document high/moderate/low risks.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2 Scenario Lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 2A - Securing Xtensr Labs (part 1 of 3)"
+  },
+  {
+    "i": 14,
+    "date": "2026-10-07",
+    "dateLabel": "Wed, October 7, 2026",
+    "month": "October 2026",
+    "letter": "F",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.3",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Managerial Controls for Physical Spaces",
+    "skills": "2.A",
+    "activity": "Draft a workstation-security policy (locking devices, clean-desk, privacy screens, surge protection) and a security-awareness training outline.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2: Managerial Controls lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 15,
+    "date": "2026-10-09",
+    "dateLabel": "Fri, October 9, 2026",
+    "month": "October 2026",
+    "letter": "H",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.3",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Technical & Physical Mitigation Controls + Xtensr Labs (part 2)",
+    "skills": "2.B",
+    "activity": "Select cost-appropriate controls (fencing/gates/bollards, locks, card readers, access-control vestibules, disabled USB ports, UPS/generators) for the Xtensr Labs scenario.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2 Scenario Lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 2A - Securing Xtensr Labs (part 2 of 3)"
+  },
+  {
+    "i": 16,
+    "date": "2026-10-14",
+    "dateLabel": "Wed, October 14, 2026",
+    "month": "October 2026",
+    "letter": "B",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Detecting Physical Attacks: Controls & Placement",
+    "skills": "3.A, 3.B",
+    "activity": "Evaluate camera coverage/angle/tamper-resistance, motion-sensor placement in low-traffic sensitive areas, and stationary vs. patrolling guards.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2: Detection Controls lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 17,
+    "date": "2026-10-16",
+    "dateLabel": "Fri, October 16, 2026",
+    "month": "October 2026",
+    "letter": "D",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "2.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Applying Detection Techniques + Xtensr Labs (part 3, presentations)",
+    "skills": "3.C",
+    "activity": "Analyze badge-entry-log timing data to spot piggybacking/tailgating; finalize and present Xtensr Labs physical-security recommendations.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2 Scenario Lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 2A - Securing Xtensr Labs (part 3 of 3 - present findings)"
+  },
+  {
+    "i": 18,
+    "date": "2026-10-21",
+    "dateLabel": "Wed, October 21, 2026",
+    "month": "October 2026",
+    "letter": "F",
+    "unitKey": "unit2",
+    "unitLabel": "Unit 2 \u00b7 Securing Spaces",
+    "unitColor": "#3E8E5A",
+    "topic": "",
+    "stype": "Assessment",
+    "stypeLabel": "Assessment",
+    "title": "Unit 2 Test: Securing Spaces",
+    "skills": "1.A-1.D, 2.A-2.C, 3.A-3.C",
+    "activity": "Summative assessment covering topics 2.1-2.4 (MC + short written response referencing a physical-security mini-scenario).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 2 Test / AP Classroom Unit 2 Progress Check",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 19,
+    "date": "2026-10-23",
+    "dateLabel": "Fri, October 23, 2026",
+    "month": "October 2026",
+    "letter": "H",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "On-Path Attacks: ARP Poisoning, MAC Spoofing & MAC Flooding",
+    "skills": "1.A, 1.B",
+    "activity": "Trace how ARP poisoning enables on-path/MITM interception and how MAC flooding overwhelms a switch's CAM table.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: Network Attacks lessons",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: ARP poisoning lab (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 20,
+    "date": "2026-10-27",
+    "dateLabel": "Tue, October 27, 2026",
+    "month": "October 2026",
+    "letter": "B",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "DNS Poisoning & Smurf/DDoS Attacks",
+    "skills": "1.A, 1.B",
+    "activity": "Explain DNS-poisoning-based credential harvesting and Smurf-style amplification DoS/DDoS attacks.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: Network Attacks lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 21,
+    "date": "2026-10-29",
+    "dateLabel": "Thu, October 29, 2026",
+    "month": "October 2026",
+    "letter": "D",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Assessing Network Vulnerability Risk",
+    "skills": "1.C, 1.D",
+    "activity": "Document high/moderate/low risk examples for LAN lateral movement, unsecured switch ports, and rogue wireless APs.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: Risk Assessment lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 22,
+    "date": "2026-11-02",
+    "dateLabel": "Mon, November 2, 2026",
+    "month": "November 2026",
+    "letter": "F",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Managerial Controls: Router, Switch & VPN Policy",
+    "skills": "2.A",
+    "activity": "Draft router/switch/VPN security policies (disable Telnet, require firewalls, port security, MAC filtering, no split-tunneling).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: Managerial Controls lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 23,
+    "date": "2026-11-04",
+    "dateLabel": "Wed, November 4, 2026",
+    "month": "November 2026",
+    "letter": "H",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Configuring Wireless Security (WPA3) + Scenario 3B",
+    "skills": "2.B",
+    "activity": "Configure SSID broadcast, signal strength/direction, and WPA3/MAC filtering; work Unit Scenario 3B (Configuring a Secure Wireless Network for a National Guard emergency shelter).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3 Scenario Lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 3B - Configuring a Secure Wireless Network"
+  },
+  {
+    "i": 24,
+    "date": "2026-11-09",
+    "dateLabel": "Mon, November 9, 2026",
+    "month": "November 2026",
+    "letter": "B",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.3",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Network Segmentation: DMZ, VLANs & Subnetting + Scenario 3C",
+    "skills": "2.A, 2.B",
+    "activity": "Diagram a screened subnet (DMZ) and VLAN segmentation; complete Unit Scenario 3C (Protecting a Network on a Naval Submarine - segmenting 3 LANs by security level).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: Segmentation lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 3C - Protecting a Network on a Naval Submarine"
+  },
+  {
+    "i": 25,
+    "date": "2026-11-11",
+    "dateLabel": "Wed, November 11, 2026",
+    "month": "November 2026",
+    "letter": "D",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Firewall Types: Stateless, Stateful & NGFW",
+    "skills": "2.A",
+    "activity": "Compare stateless packet filtering, stateful (dynamic) filtering, and next-generation firewalls.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: Firewalls lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 26,
+    "date": "2026-11-13",
+    "dateLabel": "Fri, November 13, 2026",
+    "month": "November 2026",
+    "letter": "F",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Access Control Lists (ACLs) & Rule Order",
+    "skills": "2.B",
+    "activity": "Trace first-match ACL logic; predict how reordering rules changes traffic outcomes using sample ACL syntax.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: ACL lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 27,
+    "date": "2026-11-17",
+    "dateLabel": "Tue, November 17, 2026",
+    "month": "November 2026",
+    "letter": "H",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Firewall Placement Strategy",
+    "skills": "2.B, 2.C",
+    "activity": "Determine correct firewall placement at every network ingress/egress point and per segment, independent security levels.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: Firewall Placement lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 28,
+    "date": "2026-11-19",
+    "dateLabel": "Thu, November 19, 2026",
+    "month": "November 2026",
+    "letter": "B",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Hands-On Lab: Configuring a Firewall + Scenario 3A",
+    "skills": "2.B, 4.D",
+    "activity": "Write and test ACL rules (allow/deny by port/IP/direction) in a sandbox; complete Unit Scenario 3A (Protecting Patient Medical Data - place/configure two firewalls for a hospital).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Firewall Configuration lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 3A - Protecting Patient Medical Data"
+  },
+  {
+    "i": 29,
+    "date": "2026-11-23",
+    "dateLabel": "Mon, November 23, 2026",
+    "month": "November 2026",
+    "letter": "D",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "",
+    "stype": "Assessment",
+    "stypeLabel": "Assessment",
+    "title": "Quiz: Wireless Security, Segmentation & Firewalls",
+    "skills": "2.A-2.C",
+    "activity": "Formative quiz covering topics 3.2-3.4.",
+    "resources": [
+      {
+        "label": "AP Classroom Topics 3.2-3.4 formative check",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 30,
+    "date": "2026-11-25",
+    "dateLabel": "Wed, November 25, 2026",
+    "month": "November 2026",
+    "letter": "F",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.5",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Automated Detection: NIDS, NIPS & SIEM",
+    "skills": "3.A, 3.B",
+    "activity": "Compare NIDS/NIPS/SIEM roles; discuss how AI models classify traffic probabilistically and threshold-tuning tradeoffs.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: Detection Systems lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 31,
+    "date": "2026-12-01",
+    "dateLabel": "Tue, December 1, 2026",
+    "month": "December 2026",
+    "letter": "H",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.5",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Choosing a Detection Method: Signature vs. Anomaly",
+    "skills": "3.C",
+    "activity": "Evaluate detection methods on traffic volume, pattern consistency, sensitivity, and novel-attack likelihood; discuss false-positive/alert fatigue vs. false-negative tradeoffs.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3: Detection Strategy lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 32,
+    "date": "2026-12-03",
+    "dateLabel": "Thu, December 3, 2026",
+    "month": "December 2026",
+    "letter": "B",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "3.5",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Applied Lab: Network Log Analysis for IoCs",
+    "skills": "3.D, 4.D",
+    "activity": "Analyze network logs to identify IoCs for evil-twin, jamming, ARP poisoning, MAC flooding, DNS poisoning, and Smurf attacks.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Network Log Analysis lab",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: Network traffic/log analysis lab (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 33,
+    "date": "2026-12-07",
+    "dateLabel": "Mon, December 7, 2026",
+    "month": "December 2026",
+    "letter": "D",
+    "unitKey": "unit3",
+    "unitLabel": "Unit 3 \u00b7 Securing Networks",
+    "unitColor": "#B08900",
+    "topic": "",
+    "stype": "Assessment",
+    "stypeLabel": "Assessment",
+    "title": "Unit 3 Test: Securing Networks",
+    "skills": "1.A-1.D, 2.A-2.C, 3.A-3.D",
+    "activity": "Summative assessment covering topics 3.1-3.5, including a mini Device-Security-Analysis-style log excerpt.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 3 Test / AP Classroom Unit 3 Progress Check",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 34,
+    "date": "2026-12-09",
+    "dateLabel": "Wed, December 9, 2026",
+    "month": "December 2026",
+    "letter": "F",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Device Types & the IoT/Embedded Attack Surface",
+    "skills": "1.A",
+    "activity": "Classify servers, PCs, handheld devices, and embedded/IoT systems (medical devices, smart appliances, critical infrastructure) by risk profile.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4: Device Types & IoT lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 35,
+    "date": "2026-12-11",
+    "dateLabel": "Fri, December 11, 2026",
+    "month": "December 2026",
+    "letter": "H",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Malware Taxonomy",
+    "skills": "1.A, 1.B",
+    "activity": "Distinguish virus, worm, trojan/RAT, ransomware, spyware, keylogger, logic bomb, rootkit, and fileless malware using behavior case studies.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4: Malware lessons",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: Malware analysis (sandboxed) lab (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 36,
+    "date": "2027-01-08",
+    "dateLabel": "Fri, January 8, 2027",
+    "month": "January 2027",
+    "letter": "B",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "How Adversaries Exploit Device Vulnerabilities",
+    "skills": "1.B, 1.C, 1.D",
+    "activity": "Examine unpatched-software exploits, missing BIOS/UEFI passwords, malicious autorun drives, and open ports/no firewall; document device-vulnerability risk levels.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4: Device Exploitation lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 37,
+    "date": "2027-01-12",
+    "dateLabel": "Tue, January 12, 2027",
+    "month": "January 2027",
+    "letter": "D",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Password Hashing",
+    "skills": "2.A",
+    "activity": "Explore cryptographic hash properties (collision/pre-image resistance) and salting; compare MD5/SHA-1/SHA-256/SHA-512/NTHash/RIPEMD-160.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4: Hashing lessons",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: Hashing lab (hands-on) (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 38,
+    "date": "2027-01-14",
+    "dateLabel": "Thu, January 14, 2027",
+    "month": "January 2027",
+    "letter": "F",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Password Attacks, Authentication Factors & Login Configuration + Scenario 4B",
+    "skills": "2.B, 2.C, 2.D",
+    "activity": "Distinguish online vs. offline attacks, password spraying, credential stuffing, brute force, dictionary, and rainbow-table attacks; configure account-lockout/complexity settings for Unit Scenario 4B.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4 Scenario Lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 4B - Configuring Authentication Settings"
+  },
+  {
+    "i": 39,
+    "date": "2027-01-19",
+    "dateLabel": "Tue, January 19, 2027",
+    "month": "January 2027",
+    "letter": "H",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "",
+    "stype": "Assessment",
+    "stypeLabel": "Assessment",
+    "title": "Quiz: Malware & Authentication",
+    "skills": "1.A-1.D, 2.A-2.D",
+    "activity": "Formative quiz covering topics 4.1-4.2.",
+    "resources": [
+      {
+        "label": "AP Classroom Topics 4.1-4.2 formative check",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 40,
+    "date": "2027-01-21",
+    "dateLabel": "Thu, January 21, 2027",
+    "month": "January 2027",
+    "letter": "B",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.3",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Managerial Controls, Anti-Malware & Patch Management",
+    "skills": "2.A, 2.B, 2.C",
+    "activity": "Draft acceptable-use/password/software-installation policies; explain signature-based anti-malware and why patching closes known vulnerabilities.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4: Protecting Devices lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 41,
+    "date": "2027-01-25",
+    "dateLabel": "Mon, January 25, 2027",
+    "month": "January 2027",
+    "letter": "D",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.3",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Hands-On Lab: Configuring a Host-Based Firewall",
+    "skills": "2.D",
+    "activity": "Write host-firewall ACL rules to block unneeded outbound ports/services (e.g., blocking outbound FTP to prevent exfiltration).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Host Firewall lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 42,
+    "date": "2027-01-27",
+    "dateLabel": "Wed, January 27, 2027",
+    "month": "January 2027",
+    "letter": "F",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Indicators of Compromise on Devices",
+    "skills": "3.A",
+    "activity": "Define file-based IoCs (hash matches, known malware paths) vs. behavior-based IoCs (failed logins, privilege-escalation attempts) using system/auth logs.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4: Detecting Device Attacks lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 43,
+    "date": "2027-01-29",
+    "dateLabel": "Fri, January 29, 2027",
+    "month": "January 2027",
+    "letter": "H",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Choosing & Evaluating Device Detection Controls",
+    "skills": "3.B, 3.C",
+    "activity": "Weigh EDR-service cost/performance against sensitivity and criticality; compare speed and false-positive tradeoffs by attack phase.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4: Detection Controls lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 44,
+    "date": "2027-02-02",
+    "dateLabel": "Tue, February 2, 2027",
+    "month": "February 2027",
+    "letter": "B",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Applied Lab: Auth-Log Analysis + Scenario 4C",
+    "skills": "3.D, 4.D",
+    "activity": "Detect password-spraying (many users, one IP, seconds apart) and credential-stuffing patterns in a manufacturing-network authentication log.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Auth Log Analysis lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 4C - Analyzing Log Files for Indicators of Compromise"
+  },
+  {
+    "i": 45,
+    "date": "2027-02-04",
+    "dateLabel": "Thu, February 4, 2027",
+    "month": "February 2027",
+    "letter": "D",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "4.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Case Study: Securing Connected Farm Equipment (Scenario 4A)",
+    "skills": "1.A-1.D, 2.A-2.D",
+    "activity": "Research IoT vulnerabilities in agricultural machinery and write a mitigation report as a security engineer.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4 Scenario Lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 4A - Designing Secure Connected Farm Equipment"
+  },
+  {
+    "i": 46,
+    "date": "2027-02-08",
+    "dateLabel": "Mon, February 8, 2027",
+    "month": "February 2027",
+    "letter": "F",
+    "unitKey": "unit4",
+    "unitLabel": "Unit 4 \u00b7 Securing Devices",
+    "unitColor": "#B0522D",
+    "topic": "",
+    "stype": "Assessment",
+    "stypeLabel": "Assessment",
+    "title": "Unit 4 Test: Securing Devices",
+    "skills": "1.A-1.D, 2.A-2.D, 3.A-3.D",
+    "activity": "Summative assessment covering topics 4.1-4.4, including a device auth-log excerpt.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 4 Test / AP Classroom Unit 4 Progress Check",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 47,
+    "date": "2027-02-10",
+    "dateLabel": "Wed, February 10, 2027",
+    "month": "February 2027",
+    "letter": "H",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "How Adversaries Exploit App & Data Vulnerabilities",
+    "skills": "1.A, 1.C",
+    "activity": "Examine unencrypted-file access, admin-privilege compromise, and weak access-control configuration; document data-vulnerability risk levels.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5: App & Data Vulnerabilities lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 48,
+    "date": "2027-02-16",
+    "dateLabel": "Tue, February 16, 2027",
+    "month": "February 2027",
+    "letter": "B",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.1",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Application Attacks: SQL Injection, XSS, Buffer Overflow & Directory Traversal",
+    "skills": "1.B",
+    "activity": "Trace a worked SQL-injection example, Type I/II XSS, buffer overflow, and directory traversal (../../../etc/passwd) from data-validation failures.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5: Application Attacks lessons",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: Web application attack lab (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 49,
+    "date": "2027-02-18",
+    "dateLabel": "Thu, February 18, 2027",
+    "month": "February 2027",
+    "letter": "D",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Data States, Classification & Legal Drivers (PII/PHI/PCI)",
+    "skills": "2.A",
+    "activity": "Classify data at rest/in transit/in use; connect sensitivity categories to the Privacy Act, COPPA, HIPAA, and PCI-DSS.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5: Data Classification lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 50,
+    "date": "2027-02-22",
+    "dateLabel": "Mon, February 22, 2027",
+    "month": "February 2027",
+    "letter": "F",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Access Control Models: RBAC, RuBAC, DAC & MAC",
+    "skills": "2.B, 2.C",
+    "activity": "Compare role-based, rule-based, discretionary, and mandatory (Bell-LaPadula, 'write up, read down') access-control models and the principle of least privilege.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5: Access Control Models lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 51,
+    "date": "2027-02-24",
+    "dateLabel": "Wed, February 24, 2027",
+    "month": "February 2027",
+    "letter": "H",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.2",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Hands-On Lab: Linux Permissions (chmod) + Scenario 5A",
+    "skills": "2.D",
+    "activity": "Practice rwx permissions, owner/group/others, `ls -l`/`getfacl`, and chmod numeric (750) & symbolic (ug+rx) syntax for Unit Scenario 5A (pharmaceutical R&D directory access).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Linux Permissions lab",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: Linux command-line lab (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 5A - Protecting Sensitive Data"
+  },
+  {
+    "i": 52,
+    "date": "2027-02-26",
+    "dateLabel": "Fri, February 26, 2027",
+    "month": "February 2027",
+    "letter": "B",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "",
+    "stype": "Assessment",
+    "stypeLabel": "Assessment",
+    "title": "Quiz: App Attacks, Data Classification & Access Control",
+    "skills": "1.A-1.C, 2.A-2.D",
+    "activity": "Formative quiz covering topics 5.1-5.2.",
+    "resources": [
+      {
+        "label": "AP Classroom Topics 5.1-5.2 formative check",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 53,
+    "date": "2027-03-03",
+    "dateLabel": "Wed, March 3, 2027",
+    "month": "March 2027",
+    "letter": "D",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.3",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Cryptography Fundamentals & Symmetric Encryption",
+    "skills": "2.A",
+    "activity": "Define plaintext/ciphertext/keyspace and compare symmetric vs. asymmetric encryption; introduce AES (block size, key length).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5: Symmetric Cryptography lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 54,
+    "date": "2027-03-05",
+    "dateLabel": "Fri, March 5, 2027",
+    "month": "March 2027",
+    "letter": "F",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.3",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Hands-On Lab: AES Encryption with OpenSSL",
+    "skills": "2.D",
+    "activity": "Encrypt/decrypt files using `openssl enc -aes-128-cbc` from the command line and compare block vs. stream modes.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: OpenSSL AES lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 55,
+    "date": "2027-03-09",
+    "dateLabel": "Tue, March 9, 2027",
+    "month": "March 2027",
+    "letter": "H",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Asymmetric Cryptography: RSA, ECC & Key Length",
+    "skills": "2.A, 2.C",
+    "activity": "Explain public/private key pairs, why key length matters (keyspace = 2^n), and why RSA vs. AES key lengths aren't directly comparable; intro digital signatures/certificates.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5: Asymmetric Cryptography lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 56,
+    "date": "2027-03-11",
+    "dateLabel": "Thu, March 11, 2027",
+    "month": "March 2027",
+    "letter": "B",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.4",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Hands-On Lab: PGP Encrypted Messaging (Scenario 5B)",
+    "skills": "2.D, 4.A-4.D",
+    "activity": "Paired activity: generate PGP key pairs, exchange public keys, and send/decrypt an encrypted message as utility-company security engineers.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: PGP Messaging lab",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": "Anchor activity: Unit Scenario 5B - Sending Encrypted Messages (pair students)"
+  },
+  {
+    "i": 57,
+    "date": "2027-03-16",
+    "dateLabel": "Tue, March 16, 2027",
+    "month": "March 2027",
+    "letter": "D",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.5",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Secure by Design/Default & Input Sanitization",
+    "skills": "2.A, 2.B",
+    "activity": "Apply secure-by-design principles (ownership, transparency, leadership) and secure-by-default; practice data-validation/input-sanitization design.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5: Secure Design lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 58,
+    "date": "2027-03-18",
+    "dateLabel": "Thu, March 18, 2027",
+    "month": "March 2027",
+    "letter": "F",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.6",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Detecting Attacks on Data: Logs, Honeypots & Hash Integrity",
+    "skills": "3.A",
+    "activity": "Compare accounting/access-log review, honeypots, and hash-based file-integrity checks (Get-FileHash / sha256sum / shasum).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5: Data Attack Detection lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 59,
+    "date": "2027-03-22",
+    "dateLabel": "Mon, March 22, 2027",
+    "month": "March 2027",
+    "letter": "H",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.6",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Choosing & Evaluating Data/App Detective Controls",
+    "skills": "3.B, 3.C",
+    "activity": "Weigh honeypot/DLP cost against sensitivity and speed; discuss false negatives (hash checks miss viewing/theft; honeypots miss non-interacting adversaries).",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5: Detective Controls lessons",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 60,
+    "date": "2027-03-24",
+    "dateLabel": "Wed, March 24, 2027",
+    "month": "March 2027",
+    "letter": "B",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "5.6",
+    "stype": "Content",
+    "stypeLabel": "Lesson",
+    "title": "Applied Lab: App/Data Log Analysis for IoCs",
+    "skills": "3.D, 4.D",
+    "activity": "Identify SQL-injection (quotes, OR 1=1, --), XSS (<script>), buffer-overflow (abnormal string length), and directory-traversal (../) indicators in web logs.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Web Log Analysis lab",
+        "kind": "CodeHS"
+      },
+      {
+        "label": "Cyber.org Range: Log analysis / SOC simulation lab (supplemental)",
+        "kind": "Cyber.org"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 61,
+    "date": "2027-04-06",
+    "dateLabel": "Tue, April 6, 2027",
+    "month": "April 2027",
+    "letter": "D",
+    "unitKey": "unit5",
+    "unitLabel": "Unit 5 \u00b7 Securing Applications and Data",
+    "unitColor": "#7A4FA3",
+    "topic": "",
+    "stype": "Assessment",
+    "stypeLabel": "Assessment",
+    "title": "Unit 5 Test: Securing Applications and Data",
+    "skills": "1.A-1.C, 2.A-2.D, 3.A-3.D",
+    "activity": "Summative assessment covering topics 5.1-5.6, including a mini Device-Security-Analysis-style source set.",
+    "resources": [
+      {
+        "label": "CodeHS AP Cybersecurity Unit 5 Test / AP Classroom Unit 5 Progress Check",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 62,
+    "date": "2027-04-08",
+    "dateLabel": "Thu, April 8, 2027",
+    "month": "April 2027",
+    "letter": "F",
+    "unitKey": "review",
+    "unitLabel": "Exam Review",
+    "unitColor": "#C08A00",
+    "topic": "",
+    "stype": "Review",
+    "stypeLabel": "Review",
+    "title": "Cumulative Review: Units 1-2 (Analyze Risk focus)",
+    "skills": "1.A-1.D",
+    "activity": "Mixed-format review game covering social engineering, authentication, wireless, AI attacks/defense, physical security, and risk assessment.",
+    "resources": [
+      {
+        "label": "AP Classroom Unit 1-2 Progress Checks (retake/review mode)",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 63,
+    "date": "2027-04-12",
+    "dateLabel": "Mon, April 12, 2027",
+    "month": "April 2027",
+    "letter": "H",
+    "unitKey": "review",
+    "unitLabel": "Exam Review",
+    "unitColor": "#C08A00",
+    "topic": "",
+    "stype": "Review",
+    "stypeLabel": "Review",
+    "title": "Cumulative Review: Unit 3 (Mitigate/Detect Risk focus)",
+    "skills": "2.A-2.C, 3.A-3.D",
+    "activity": "Review network attacks, segmentation, firewalls/ACLs, and network detection methods.",
+    "resources": [
+      {
+        "label": "AP Classroom Unit 3 Progress Check (review mode)",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 64,
+    "date": "2027-04-14",
+    "dateLabel": "Wed, April 14, 2027",
+    "month": "April 2027",
+    "letter": "B",
+    "unitKey": "review",
+    "unitLabel": "Exam Review",
+    "unitColor": "#C08A00",
+    "topic": "",
+    "stype": "Review",
+    "stypeLabel": "Review",
+    "title": "Cumulative Review: Unit 4 (Devices)",
+    "skills": "1.A-1.D, 2.A-2.D, 3.A-3.D",
+    "activity": "Review malware, hashing/password attacks, device protection, and device-log IoC detection.",
+    "resources": [
+      {
+        "label": "AP Classroom Unit 4 Progress Check (review mode)",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 65,
+    "date": "2027-04-16",
+    "dateLabel": "Fri, April 16, 2027",
+    "month": "April 2027",
+    "letter": "D",
+    "unitKey": "review",
+    "unitLabel": "Exam Review",
+    "unitColor": "#C08A00",
+    "topic": "",
+    "stype": "Review",
+    "stypeLabel": "Review",
+    "title": "Cumulative Review: Unit 5 (Applications & Data)",
+    "skills": "1.A-1.C, 2.A-2.D, 3.A-3.D",
+    "activity": "Review application attacks, access control models, cryptography, and data/app IoC detection.",
+    "resources": [
+      {
+        "label": "AP Classroom Unit 5 Progress Check (review mode)",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 66,
+    "date": "2027-04-20",
+    "dateLabel": "Tue, April 20, 2027",
+    "month": "April 2027",
+    "letter": "F",
+    "unitKey": "review",
+    "unitLabel": "Exam Review",
+    "unitColor": "#C08A00",
+    "topic": "",
+    "stype": "Review",
+    "stypeLabel": "Review",
+    "title": "Practice Device Security Analysis FRQ #1 (guided)",
+    "skills": "2.A-2.D, 3.A-3.D",
+    "activity": "Work through the official College Board sample Device Security Analysis FRQ as a class, then score against the published rubric.",
+    "resources": [
+      {
+        "label": "AP Cybersecurity CED Sample Free-Response Question + Scoring Guidelines",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 67,
+    "date": "2027-04-22",
+    "dateLabel": "Thu, April 22, 2027",
+    "month": "April 2027",
+    "letter": "H",
+    "unitKey": "review",
+    "unitLabel": "Exam Review",
+    "unitColor": "#C08A00",
+    "topic": "",
+    "stype": "Review",
+    "stypeLabel": "Review",
+    "title": "Practice Device Security Analysis FRQ #2 (independent)",
+    "skills": "2.A-2.D, 3.A-3.D",
+    "activity": "Students complete a second Device Security Analysis FRQ independently (firewall table + auth log + policy excerpt), then peer-score using the rubric.",
+    "resources": [
+      {
+        "label": "AP Classroom Question Bank: Device Security Analysis practice set",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 68,
+    "date": "2027-04-27",
+    "dateLabel": "Tue, April 27, 2027",
+    "month": "April 2027",
+    "letter": "B",
+    "unitKey": "review",
+    "unitLabel": "Exam Review",
+    "unitColor": "#C08A00",
+    "topic": "",
+    "stype": "Review",
+    "stypeLabel": "Review",
+    "title": "Multiple-Choice Practice & Task-Verb Review",
+    "skills": "All",
+    "activity": "Timed 30-question multiple-choice set drawn from all 5 units; debrief task verbs (Identify/Explain/Describe/Determine/Write) and AI-related sub-skills.",
+    "resources": [
+      {
+        "label": "AP Classroom Question Bank (custom MC set)",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 69,
+    "date": "2027-04-29",
+    "dateLabel": "Thu, April 29, 2027",
+    "month": "April 2027",
+    "letter": "D",
+    "unitKey": "review",
+    "unitLabel": "Exam Review",
+    "unitColor": "#C08A00",
+    "topic": "",
+    "stype": "Review",
+    "stypeLabel": "Review",
+    "title": "Full-Length Practice Exam",
+    "skills": "All",
+    "activity": "Timed, full-length practice exam under real exam conditions (80 min MC + 50 min FRQ).",
+    "resources": [
+      {
+        "label": "AP Classroom Full-Length Practice Exam (Bluebook)",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 70,
+    "date": "2027-05-03",
+    "dateLabel": "Mon, May 3, 2027",
+    "month": "May 2027",
+    "letter": "F",
+    "unitKey": "review",
+    "unitLabel": "Exam Review",
+    "unitColor": "#C08A00",
+    "topic": "",
+    "stype": "Review",
+    "stypeLabel": "Review",
+    "title": "Practice Exam Debrief & Final Prep",
+    "skills": "All",
+    "activity": "Review class performance data from Reports; targeted re-teach of the lowest-scoring skills; exam-day logistics and stress-management tips.",
+    "resources": [
+      {
+        "label": "AP Classroom Reports (class trends)",
+        "kind": "CodeHS"
+      }
+    ],
+    "anchor": ""
+  },
+  {
+    "i": 71,
+    "date": "2027-05-05",
+    "dateLabel": "Wed, May 5, 2027",
+    "month": "May 2027",
+    "letter": "H",
+    "unitKey": "exam",
+    "unitLabel": "AP Exam Day",
+    "unitColor": "#BBAA66",
+    "topic": "",
+    "stype": "Exam",
+    "stypeLabel": "AP Exam",
+    "title": "AP Cybersecurity Exam",
+    "skills": "All",
+    "activity": "Section I: Multiple Choice (60 questions, 80 minutes). Section II: Free Response \u2014 Device Security Analysis (50 minutes). Good luck!",
+    "resources": [],
+    "anchor": ""
+  },
+  {
+    "i": 72,
+    "date": "2027-05-07",
+    "dateLabel": "Fri, May 7, 2027",
+    "month": "May 2027",
+    "letter": "B",
+    "unitKey": "capstone",
+    "unitLabel": "Post-Exam Capstone",
+    "unitColor": "#2C7A7B",
+    "topic": "",
+    "stype": "Capstone",
+    "stypeLabel": "Capstone",
+    "title": "Post-Exam Kickoff: Design a Defense-in-Depth Plan",
+    "skills": "4.A-4.D",
+    "activity": "Decompress from the AP Exam; introduce the capstone project - in teams, design a full defense-in-depth security plan (physical, network, device, application/data layers) for a chosen organization (school, hospital, small business, etc.).",
+    "resources": [],
+    "anchor": ""
+  },
+  {
+    "i": 73,
+    "date": "2027-05-11",
+    "dateLabel": "Tue, May 11, 2027",
+    "month": "May 2027",
+    "letter": "D",
+    "unitKey": "capstone",
+    "unitLabel": "Post-Exam Capstone",
+    "unitColor": "#2C7A7B",
+    "topic": "",
+    "stype": "Capstone",
+    "stypeLabel": "Capstone",
+    "title": "Capstone Work Day 1: Risk Assessment & Control Selection",
+    "skills": "4.A-4.D",
+    "activity": "Teams identify assets/threats/vulnerabilities for their chosen organization and select managerial/technical/physical controls across all 4 layers.",
+    "resources": [],
+    "anchor": ""
+  },
+  {
+    "i": 74,
+    "date": "2027-05-13",
+    "dateLabel": "Thu, May 13, 2027",
+    "month": "May 2027",
+    "letter": "F",
+    "unitKey": "capstone",
+    "unitLabel": "Post-Exam Capstone",
+    "unitColor": "#2C7A7B",
+    "topic": "",
+    "stype": "Capstone",
+    "stypeLabel": "Capstone",
+    "title": "Capstone Work Day 2: Detection Plan & Incident-Response Tabletop",
+    "skills": "4.A-4.D",
+    "activity": "Teams design a detection strategy (tools + IoCs) and run a short tabletop exercise simulating response to a chosen attack scenario.",
+    "resources": [],
+    "anchor": ""
+  },
+  {
+    "i": 75,
+    "date": "2027-05-17",
+    "dateLabel": "Mon, May 17, 2027",
+    "month": "May 2027",
+    "letter": "H",
+    "unitKey": "capstone",
+    "unitLabel": "Post-Exam Capstone",
+    "unitColor": "#2C7A7B",
+    "topic": "",
+    "stype": "Capstone",
+    "stypeLabel": "Capstone",
+    "title": "Cybersecurity Careers & Certifications Panel",
+    "skills": "4.A-4.D",
+    "activity": "Explore NICE Workforce Framework career roles; discuss next-step industry certifications (CompTIA Security+, ISC2 Certified in Cybersecurity); optional guest speaker from a local employer or college cybersecurity program.",
+    "resources": [],
+    "anchor": ""
+  },
+  {
+    "i": 76,
+    "date": "2027-05-19",
+    "dateLabel": "Wed, May 19, 2027",
+    "month": "May 2027",
+    "letter": "B",
+    "unitKey": "capstone",
+    "unitLabel": "Post-Exam Capstone",
+    "unitColor": "#2C7A7B",
+    "topic": "",
+    "stype": "Capstone",
+    "stypeLabel": "Capstone",
+    "title": "Capstone Presentations",
+    "skills": "4.A-4.D",
+    "activity": "Teams present their defense-in-depth plans to the class; peer feedback using a rubric aligned to the 4 Course Skill categories.",
+    "resources": [],
+    "anchor": ""
+  },
+  {
+    "i": 77,
+    "date": "2027-05-21",
+    "dateLabel": "Fri, May 21, 2027",
+    "month": "May 2027",
+    "letter": "D",
+    "unitKey": "capstone",
+    "unitLabel": "Post-Exam Capstone",
+    "unitColor": "#2C7A7B",
+    "topic": "",
+    "stype": "Capstone",
+    "stypeLabel": "Capstone",
+    "title": "Course Wrap-Up & Reflection",
+    "skills": "4.A-4.D",
+    "activity": "Self-assessment against the 4 Course Skill categories; course feedback survey; preview pathways (Security+ study track, CTF/cyber clubs, capstone showcase for the department).",
+    "resources": [],
+    "anchor": ""
+  }
+]
