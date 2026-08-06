@@ -1,6 +1,6 @@
 # AP Cybersecurity — Lessons Site
 
-A static, student-facing lessons page for La Salle College High School's AP Cybersecurity course, mapped day-by-day to the BDFH rotation schedule (78 sessions, August 25, 2026 – May 21, 2027). Same idea as [phillycomputerscience.com/lessons](https://phillycomputerscience.com/lessons/), but every card is tied to an actual class date rather than just a unit.
+A static, student-facing lessons page for La Salle College High School's AP Cybersecurity course, mapped day-by-day to the BDFH rotation schedule (78 sessions, August 25, 2026 – May 21, 2027). Same idea as [phillycomputerscience.com/lessons](https://phillycomputerscience.com/lessons/), but every card is tied to an actual class date rather than just a unit. 
 
 No build step, no server-side code, no dependencies — it's plain HTML/CSS/JS that reads two JSON files. That makes it a good fit for GitHub Pages (or literally any static host).
 
