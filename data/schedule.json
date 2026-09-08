@@ -43,12 +43,12 @@
     "activity": "Analyze real phishing/vishing examples; identify indicators (urgency, authority, intimidation) and explain impacts of leaked PII.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 1: Social Engineering lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 1.3: The Tricks Behind Every Scam (Understanding Social Engineering)"
       },
       {
-        "label": "Cyber.org Range: Social Engineering / Phishing module (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS Cyber Range",
+        "label": "Three Threats"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 1A - Detecting Phishing Messages"
@@ -70,8 +70,12 @@
     "activity": "Identify signs of online password attacks from a login table; compare passphrases/password managers/MFA as mitigations.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 1: Authentication Risks lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 1.4: Lock It Down With Better Passwords (Suspicious Website Logins)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "First Watch, The Weak Link"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 1B - Detecting Unauthorized Logins"
@@ -93,12 +97,12 @@
     "activity": "Classify adversary types (script kiddie to nation-state) by motive/skill; identify evil twin, jamming/DoS, and war driving; practice safe public-Wi-Fi habits (HTTPS, VPN).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 1: Network Risks & Adversaries lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 1.5: The Threat Landscape (Best Practices for Public Networks)"
       },
       {
-        "label": "Cyber.org Range: Wireless network attacks lab (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS Cyber Range",
+        "label": "Signal Sweep, Factory Defaults"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 1C - Verifying Network Authenticity (coffee-shop evil twin)"
@@ -120,8 +124,12 @@
     "activity": "Examine deepfake/voice-cloning and LLM-generated phishing case studies; discuss prompt injection and data-poisoning risks.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 1: AI & Cyberattacks lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 1.6: AI Has Entered the Chat + 1.7: Using AI as Your Defense (AI-Based Cybersecurity Attacks)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Smarter Attacks, Context Window"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 1D - AI-Powered Cyberattacks (voice-cloning scam call)"
@@ -143,8 +151,12 @@
     "activity": "Explore how AI tools assist config/code review, detection-rule suggestions, and event triage; discuss human-in-the-loop necessity.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 1: AI for Defense lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 1.8: When AI and Humans Team Up + 1.9: The AI Security Guard (Leveraging AI in Cyber Defense)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Hall Pass Audit, Wi-Fi Rules Roulette, Three Warnings One Wrong, Did the Alarm Go Off?"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 1E - AI-Powered Cyber Defense (AI code-review catches SQL injection)"
@@ -166,8 +178,8 @@
     "activity": "Summative assessment covering topics 1.1-1.5 (MC + short written response).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 1 Test / AP Classroom Unit 1 Progress Check",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 1.10: Introduction to Security Quiz"
       }
     ],
     "anchor": ""
@@ -189,8 +201,8 @@
     "activity": "Map all 7 social-engineering tactics (pretexting, authority, intimidation, consensus, scarcity, familiarity, urgency) to real scenarios; classify adversary categories (script kiddie, hacktivist, insider threat, cyberterrorist, transnational criminal org).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2: Cyber Foundations lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.1: The Art of Deception (Cyber Foundations)"
       }
     ],
     "anchor": ""
@@ -212,12 +224,12 @@
     "activity": "Walk the attack lifecycle: Reconnaissance (OSINT) -> Initial Access -> Persistence (C2, RAT/rootkit) -> Lateral Movement -> Action -> Evading Detection, using a case-study attack timeline.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2: Cyberattack Phases lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.2: Anatomy of a Cyberattack + 2.3: Breaking In and Staying In + 2.4: The Attacker's Endgame (Cyber Foundations)"
       },
       {
-        "label": "Cyber.org: OSINT/reconnaissance unplugged activity (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS Cyber Range",
+        "label": "Incident #2847, Active Recon, Follow the Logs, Permission Escalation"
       }
     ],
     "anchor": ""
@@ -239,8 +251,12 @@
     "activity": "Practice identifying asset/threat/vulnerability triples and computing likelihood x severity; compare quantitative vs. qualitative risk documentation.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2: Risk Assessment lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.5: Risk Fundamentals: What Could Go Wrong? + 2.6: Risky Business: Turning Risk Into a Plan (Cyber Foundations)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Lockdown Protocol"
       }
     ],
     "anchor": ""
@@ -262,8 +278,12 @@
     "activity": "Compare Avoid/Transfer/Mitigate/Accept strategies and residual risk; classify controls by CIA triad, type (physical/technical/managerial), and function (preventative/detective/corrective); diagram defense-in-depth layers.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2: Security Controls & Defense-in-Depth lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.7: The Risk Response Playbook + 2.8: Building Strong Cyber Defenses (Cyber Foundations)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Audit Ward"
       }
     ],
     "anchor": ""
@@ -278,18 +298,18 @@
     "unitLabel": "Unit 2 \u00b7 Securing Spaces",
     "unitColor": "#3E8E5A",
     "topic": "2.1",
-    "stype": "Assessment",
-    "stypeLabel": "Assessment",
-    "title": "Quiz: Cyber Foundations (Topic 2.1)",
+    "stype": "Capstone",
+    "stypeLabel": "Capstone",
+    "title": "Capstone: Coffee Shop Consultant",
     "skills": "1.A-1.D, 2.A-2.B",
-    "activity": "Formative quiz covering risk assessment, risk management strategies, and control types.",
+    "activity": "Apply the full arc of Topic 2.1 (risk assessment, risk management strategies, security controls, and defense-in-depth) to a single scenario: assess a coffee shop's risks, recommend a risk-response strategy, select appropriate security controls, and justify a layered (defense-in-depth) approach.",
     "resources": [
       {
-        "label": "AP Classroom Topic 2.1 formative check",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.9: Capstone: Coffee Shop Consultant"
       }
     ],
-    "anchor": ""
+    "anchor": "Replaces the Topic 2.1 formative quiz with CodeHS's own capstone project for this section."
   },
   {
     "i": 12,
@@ -308,12 +328,8 @@
     "activity": "Identify piggybacking, tailgating, shoulder surfing, dumpster diving, and card cloning; explain how each exploits a physical vulnerability.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2: Physical Attacks lessons",
-        "kind": "CodeHS"
-      },
-      {
-        "label": "Cyber.org Range: Physical security awareness module (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.10: The Physical Side of Cyber Threats (Physical Vulnerabilities and Attacks)"
       }
     ],
     "anchor": ""
@@ -335,8 +351,12 @@
     "activity": "Begin Unit Scenario 2A (Securing Xtensr Labs): review building plans and current controls; document high/moderate/low risks.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2 Scenario Lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.11: The Fallout From a Physical Breach + 2.12: Mapping the Risks Around You (Physical Vulnerabilities and Attacks)"
+      },
+      {
+        "kind": "CodeHS",
+        "label": "Unit 2 Scenario Lab (Xtensr Labs scenario)"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 2A - Securing Xtensr Labs (part 1 of 3)"
@@ -358,8 +378,8 @@
     "activity": "Draft a workstation-security policy (locking devices, clean-desk, privacy screens, surge protection) and a security-awareness training outline.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2: Managerial Controls lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.13: Small Habits, Big Security Impact (Protecting Physical Spaces)"
       }
     ],
     "anchor": ""
@@ -381,8 +401,12 @@
     "activity": "Select cost-appropriate controls (fencing/gates/bollards, locks, card readers, access-control vestibules, disabled USB ports, UPS/generators) for the Xtensr Labs scenario.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2 Scenario Lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.14: Layers of Protection in the Physical World (Protecting Physical Spaces)"
+      },
+      {
+        "kind": "CodeHS",
+        "label": "Unit 2 Scenario Lab (Xtensr Labs scenario)"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 2A - Securing Xtensr Labs (part 2 of 3)"
@@ -404,8 +428,8 @@
     "activity": "Evaluate camera coverage/angle/tamper-resistance, motion-sensor placement in low-traffic sensitive areas, and stationary vs. patrolling guards.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2: Detection Controls lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.15: Caught on Camera + 2.16: Who's Getting In? (Detecting Physical Spaces)"
       }
     ],
     "anchor": ""
@@ -427,8 +451,12 @@
     "activity": "Analyze badge-entry-log timing data to spot piggybacking/tailgating; finalize and present Xtensr Labs physical-security recommendations.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2 Scenario Lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.17: Secure the Building (Detecting Physical Spaces)"
+      },
+      {
+        "kind": "CodeHS",
+        "label": "Unit 2 Scenario Lab (Xtensr Labs scenario)"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 2A - Securing Xtensr Labs (part 3 of 3 - present findings)"
@@ -450,8 +478,8 @@
     "activity": "Summative assessment covering topics 2.1-2.4 (MC + short written response referencing a physical-security mini-scenario).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 2 Test / AP Classroom Unit 2 Progress Check",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 2.18: Securing Spaces Quiz"
       }
     ],
     "anchor": ""
@@ -473,12 +501,8 @@
     "activity": "Trace how ARP poisoning enables on-path/MITM interception and how MAC flooding overwhelms a switch's CAM table.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: Network Attacks lessons",
-        "kind": "CodeHS"
-      },
-      {
-        "label": "Cyber.org Range: ARP poisoning lab (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.1: How Network Traffic Moves + 3.2: Traffic in the Wrong Hands (Network Vulnerabilities and Attacks)"
       }
     ],
     "anchor": ""
@@ -500,8 +524,12 @@
     "activity": "Explain DNS-poisoning-based credential harvesting and Smurf-style amplification DoS/DDoS attacks.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: Network Attacks lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.3: Misdirected and Overwhelmed + 3.4: How Adversaries Get Into Your Network (Network Vulnerabilities and Attacks)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Wrong Address"
       }
     ],
     "anchor": ""
@@ -523,8 +551,8 @@
     "activity": "Document high/moderate/low risk examples for LAN lateral movement, unsecured switch ports, and rogue wireless APs.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: Risk Assessment lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.5: Think Like a Security Analyst (Network Vulnerabilities and Attacks)"
       }
     ],
     "anchor": ""
@@ -546,8 +574,8 @@
     "activity": "Draft router/switch/VPN security policies (disable Telnet, require firewalls, port security, MAC filtering, no split-tunneling).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: Managerial Controls lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.6: The Network's Rulebook (Protecting Networks: Managerial Controls and Wireless Security)"
       }
     ],
     "anchor": ""
@@ -569,8 +597,12 @@
     "activity": "Configure SSID broadcast, signal strength/direction, and WPA3/MAC filtering; work Unit Scenario 3B (Configuring a Secure Wireless Network for a National Guard emergency shelter).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3 Scenario Lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.7: Locking Down the Airwaves (Protecting Networks: Managerial Controls and Wireless Security)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "The Audit That Never Happened"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 3B - Configuring a Secure Wireless Network"
@@ -592,8 +624,12 @@
     "activity": "Diagram a screened subnet (DMZ) and VLAN segmentation; complete Unit Scenario 3C (Protecting a Network on a Naval Submarine - segmenting 3 LANs by security level).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: Segmentation lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.8: Network Segmentation (Protecting Networks: Segmentation)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Build the Defense"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 3C - Protecting a Network on a Naval Submarine"
@@ -615,8 +651,8 @@
     "activity": "Compare stateless packet filtering, stateful (dynamic) filtering, and next-generation firewalls.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: Firewalls lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.9: Guarding the Gate (Protecting Networks: Firewalls)"
       }
     ],
     "anchor": ""
@@ -638,8 +674,12 @@
     "activity": "Trace first-match ACL logic; predict how reordering rules changes traffic outcomes using sample ACL syntax.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: ACL lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.10: The Rules of the Firewall (Protecting Networks: Firewalls)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "The Firewall Rulebook, Rules of Engagement"
       }
     ],
     "anchor": ""
@@ -661,8 +701,12 @@
     "activity": "Determine correct firewall placement at every network ingress/egress point and per segment, independent security levels.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: Firewall Placement lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.11: Where to Build the Walls (Protecting Networks: Firewalls)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Flat Network Fallout"
       }
     ],
     "anchor": ""
@@ -684,8 +728,12 @@
     "activity": "Write and test ACL rules (allow/deny by port/IP/direction) in a sandbox; complete Unit Scenario 3A (Protecting Patient Medical Data - place/configure two firewalls for a hospital).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Firewall Configuration lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.12: Writing the Rulebooks (Protecting Networks: Firewalls)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Rule Order Showdown"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 3A - Protecting Patient Medical Data"
@@ -707,8 +755,8 @@
     "activity": "Formative quiz covering topics 3.2-3.4.",
     "resources": [
       {
-        "label": "AP Classroom Topics 3.2-3.4 formative check",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.13: Capstone: Firewalls in Practice (Project: Network Security Design Challenge)"
       }
     ],
     "anchor": ""
@@ -730,8 +778,12 @@
     "activity": "Compare NIDS/NIPS/SIEM roles; discuss how AI models classify traffic probabilistically and threshold-tuning tradeoffs.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: Detection Systems lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.14: The Automated Detectors + 3.15: AI-Powered Threat Detection (Detecting Network Attacks)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Grep Detective"
       }
     ],
     "anchor": ""
@@ -753,8 +805,12 @@
     "activity": "Evaluate detection methods on traffic volume, pattern consistency, sensitivity, and novel-attack likelihood; discuss false-positive/alert fatigue vs. false-negative tradeoffs.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3: Detection Strategy lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.16: Choosing Between Detection Methods + 3.17: Evaluating Detection Methods (Detecting Network Attacks)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Zero-Day Blindspot"
       }
     ],
     "anchor": ""
@@ -776,12 +832,12 @@
     "activity": "Analyze network logs to identify IoCs for evil-twin, jamming, ARP poisoning, MAC flooding, DNS poisoning, and Smurf attacks.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Network Log Analysis lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.18: The Story in the Logs (Detecting Network Attacks)"
       },
       {
-        "label": "Cyber.org Range: Network traffic/log analysis lab (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS Cyber Range",
+        "label": "Poisoned Cache, Broadcast Storm"
       }
     ],
     "anchor": ""
@@ -803,8 +859,8 @@
     "activity": "Summative assessment covering topics 3.1-3.5, including a mini Device-Security-Analysis-style log excerpt.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 3 Test / AP Classroom Unit 3 Progress Check",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 3.19: Securing Networks Quiz"
       }
     ],
     "anchor": ""
@@ -826,8 +882,8 @@
     "activity": "Classify servers, PCs, handheld devices, and embedded/IoT systems (medical devices, smart appliances, critical infrastructure) by risk profile.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4: Device Types & IoT lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.1: Everything is a Computer (Device Vulnerabilities and Attacks)"
       }
     ],
     "anchor": ""
@@ -849,12 +905,8 @@
     "activity": "Distinguish virus, worm, trojan/RAT, ransomware, spyware, keylogger, logic bomb, rootkit, and fileless malware using behavior case studies.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4: Malware lessons",
-        "kind": "CodeHS"
-      },
-      {
-        "label": "Cyber.org Range: Malware analysis (sandboxed) lab (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.2: The Adversary's Toolkit (Device Vulnerabilities and Attacks)"
       }
     ],
     "anchor": ""
@@ -876,8 +928,12 @@
     "activity": "Examine unpatched-software exploits, missing BIOS/UEFI passwords, malicious autorun drives, and open ports/no firewall; document device-vulnerability risk levels.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4: Device Exploitation lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.3: How Adversaries Get In + 4.4: What's Worth Protecting? (Device Vulnerabilities and Attacks)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Port Scanner"
       }
     ],
     "anchor": ""
@@ -899,12 +955,8 @@
     "activity": "Explore cryptographic hash properties (collision/pre-image resistance) and salting; compare MD5/SHA-1/SHA-256/SHA-512/NTHash/RIPEMD-160.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4: Hashing lessons",
-        "kind": "CodeHS"
-      },
-      {
-        "label": "Cyber.org Range: Hashing lab (hands-on) (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.5: Cracking the Hash (Authentication)"
       }
     ],
     "anchor": ""
@@ -926,8 +978,12 @@
     "activity": "Distinguish online vs. offline attacks, password spraying, credential stuffing, brute force, dictionary, and rainbow-table attacks; configure account-lockout/complexity settings for Unit Scenario 4B.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4 Scenario Lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.6: Passwords Under Attack + 4.7: Can You Prove It's You? (Authentication)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Shattered Tables"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 4B - Configuring Authentication Settings"
@@ -949,8 +1005,8 @@
     "activity": "Formative quiz covering topics 4.1-4.2.",
     "resources": [
       {
-        "label": "AP Classroom Topics 4.1-4.2 formative check",
-        "kind": "CodeHS"
+        "kind": "AP Classroom",
+        "label": "Topics 4.1-4.2 formative check"
       }
     ],
     "anchor": ""
@@ -972,8 +1028,12 @@
     "activity": "Draft acceptable-use/password/software-installation policies; explain signature-based anti-malware and why patching closes known vulnerabilities.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4: Protecting Devices lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.9: Writing the Rules Devices Follow + 4.10: Defend the Device (Protecting Devices)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Lock County Lockdown"
       }
     ],
     "anchor": ""
@@ -995,8 +1055,12 @@
     "activity": "Write host-firewall ACL rules to block unneeded outbound ports/services (e.g., blocking outbound FTP to prevent exfiltration).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Host Firewall lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.11: Host Firewalls + 4.12: Capstone: Device Defense-In-Depth (Protecting Devices)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Incident Zero"
       }
     ],
     "anchor": ""
@@ -1018,8 +1082,12 @@
     "activity": "Define file-based IoCs (hash matches, known malware paths) vs. behavior-based IoCs (failed logins, privilege-escalation attempts) using system/auth logs.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4: Detecting Device Attacks lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.13: Inside the Security Logs (Detecting Attacks on Devices)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Four Logs, Four Stories"
       }
     ],
     "anchor": ""
@@ -1041,8 +1109,8 @@
     "activity": "Weigh EDR-service cost/performance against sensitivity and criticality; compare speed and false-positive tradeoffs by attack phase.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4: Detection Controls lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.14: Smart Detection Choices (Detecting Attacks on Devices)"
       }
     ],
     "anchor": ""
@@ -1064,8 +1132,8 @@
     "activity": "Detect password-spraying (many users, one IP, seconds apart) and credential-stuffing patterns in a manufacturing-network authentication log.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Auth Log Analysis lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.15: Detecting Password Attacks in the Wild (Detecting Attacks on Devices)"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 4C - Analyzing Log Files for Indicators of Compromise"
@@ -1087,8 +1155,8 @@
     "activity": "Research IoT vulnerabilities in agricultural machinery and write a mitigation report as a security engineer.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4 Scenario Lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.16: Capstone: Detection Across the Stack (Detecting Attacks on Devices)"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 4A - Designing Secure Connected Farm Equipment"
@@ -1110,8 +1178,8 @@
     "activity": "Summative assessment covering topics 4.1-4.4, including a device auth-log excerpt.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 4 Test / AP Classroom Unit 4 Progress Check",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 4.17: Securing Devices Quiz"
       }
     ],
     "anchor": ""
@@ -1133,8 +1201,12 @@
     "activity": "Examine unencrypted-file access, admin-privilege compromise, and weak access-control configuration; document data-vulnerability risk levels.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5: App & Data Vulnerabilities lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.1: The Access Problem (Application and Data Vulnerabilities and Attacks)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Read the Message"
       }
     ],
     "anchor": ""
@@ -1156,12 +1228,12 @@
     "activity": "Trace a worked SQL-injection example, Type I/II XSS, buffer overflow, and directory traversal (../../../etc/passwd) from data-validation failures.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5: Application Attacks lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.2: When Input Becomes an Attack + 5.3: When the Boundaries Break + 5.4: How Do You Measure Risk? (Application and Data Vulnerabilities and Attacks)"
       },
       {
-        "label": "Cyber.org Range: Web application attack lab (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS Cyber Range",
+        "label": "The Login Breach, Patient Zero"
       }
     ],
     "anchor": ""
@@ -1183,8 +1255,12 @@
     "activity": "Classify data at rest/in transit/in use; connect sensitivity categories to the Privacy Act, COPPA, HIPAA, and PCI-DSS.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5: Data Classification lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.5: Data in the Wrong Hands: Classification, Regulation & Policy (Protecting Applications and Data)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Data State Tracer"
       }
     ],
     "anchor": ""
@@ -1206,8 +1282,8 @@
     "activity": "Compare role-based, rule-based, discretionary, and mandatory (Bell-LaPadula, 'write up, read down') access-control models and the principle of least privilege.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5: Access Control Models lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.6: Who Gets In? Access Control Models (Protecting Applications and Data)"
       }
     ],
     "anchor": ""
@@ -1229,12 +1305,12 @@
     "activity": "Practice rwx permissions, owner/group/others, `ls -l`/`getfacl`, and chmod numeric (750) & symbolic (ug+rx) syntax for Unit Scenario 5A (pharmaceutical R&D directory access).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Linux Permissions lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.7: Locking Down Files: Linux Permissions + 5.8: Capstone: Defending a Real System (Protecting Applications and Data)"
       },
       {
-        "label": "Cyber.org Range: Linux command-line lab (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS Cyber Range",
+        "label": "Count the Files, Directory Explorer, The Permission Puzzle, Chmod Workshop"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 5A - Protecting Sensitive Data"
@@ -1256,8 +1332,8 @@
     "activity": "Formative quiz covering topics 5.1-5.2.",
     "resources": [
       {
-        "label": "AP Classroom Topics 5.1-5.2 formative check",
-        "kind": "CodeHS"
+        "kind": "AP Classroom",
+        "label": "Topics 5.1-5.2 formative check"
       }
     ],
     "anchor": ""
@@ -1279,8 +1355,12 @@
     "activity": "Define plaintext/ciphertext/keyspace and compare symmetric vs. asymmetric encryption; introduce AES (block size, key length).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5: Symmetric Cryptography lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.9: Keys, Blocks, and Streams + 5.10: The Advanced Encryption Standard (Protecting Stored Data with Cryptography)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "Caesar's Secret Message, Symmetric Secrets, Encryption Layers"
       }
     ],
     "anchor": ""
@@ -1302,8 +1382,8 @@
     "activity": "Encrypt/decrypt files using `openssl enc -aes-128-cbc` from the command line and compare block vs. stream modes.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: OpenSSL AES lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.11: Tools for AES (Protecting Stored Data with Cryptography)"
       }
     ],
     "anchor": ""
@@ -1325,8 +1405,12 @@
     "activity": "Explain public/private key pairs, why key length matters (keyspace = 2^n), and why RSA vs. AES key lengths aren't directly comparable; intro digital signatures/certificates.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5: Asymmetric Cryptography lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.12: Two Keys Are Better Than One + 5.13: More Keys Than Stars (Asymmetric Cryptography)"
+      },
+      {
+        "kind": "CodeHS Cyber Range",
+        "label": "RSA Key Lab, Public Key Puzzle"
       }
     ],
     "anchor": ""
@@ -1348,8 +1432,8 @@
     "activity": "Paired activity: generate PGP key pairs, exchange public keys, and send/decrypt an encrypted message as utility-company security engineers.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: PGP Messaging lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.14: Tools for RSA + 5.15: Capstone: The VitalLink Security Consult (Asymmetric Cryptography)"
       }
     ],
     "anchor": "Anchor activity: Unit Scenario 5B - Sending Encrypted Messages (pair students)"
@@ -1371,8 +1455,8 @@
     "activity": "Apply secure-by-design principles (ownership, transparency, leadership) and secure-by-default; practice data-validation/input-sanitization design.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5: Secure Design lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.16: Secure by Design & Secure by Default + 5.17: User Input Sanitization (Protecting Applications)"
       }
     ],
     "anchor": ""
@@ -1394,8 +1478,8 @@
     "activity": "Compare accounting/access-log review, honeypots, and hash-based file-integrity checks (Get-FileHash / sha256sum / shasum).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5: Data Attack Detection lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.18: Catching the Intruder + 5.20: Verifying File Integrity with Hashes (Detecting Attacks on Data and Applications)"
       }
     ],
     "anchor": ""
@@ -1417,8 +1501,8 @@
     "activity": "Weigh honeypot/DLP cost against sensitivity and speed; discuss false negatives (hash checks miss viewing/theft; honeypots miss non-interacting adversaries).",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5: Detective Controls lessons",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.19: Choosing the Right Controls (Detecting Attacks on Data and Applications)"
       }
     ],
     "anchor": ""
@@ -1440,12 +1524,12 @@
     "activity": "Identify SQL-injection (quotes, OR 1=1, --), XSS (<script>), buffer-overflow (abnormal string length), and directory-traversal (../) indicators in web logs.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Cyber Range Challenge: Web Log Analysis lab",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.21: Reading the Attack: Log Analysis for Application Attacks (Detecting Attacks on Data and Applications)"
       },
       {
-        "label": "Cyber.org Range: Log analysis / SOC simulation lab (supplemental)",
-        "kind": "Cyber.org"
+        "kind": "CodeHS Cyber Range",
+        "label": "Incident Reconstruction: Meridian Health"
       }
     ],
     "anchor": ""
@@ -1467,8 +1551,8 @@
     "activity": "Summative assessment covering topics 5.1-5.6, including a mini Device-Security-Analysis-style source set.",
     "resources": [
       {
-        "label": "CodeHS AP Cybersecurity Unit 5 Test / AP Classroom Unit 5 Progress Check",
-        "kind": "CodeHS"
+        "kind": "CodeHS",
+        "label": "AP Cybersecurity 5.22: Securing Applications and Data Quiz"
       }
     ],
     "anchor": ""
