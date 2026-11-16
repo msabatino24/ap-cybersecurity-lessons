@@ -80,9 +80,13 @@
     card.style.setProperty('--unit-color', color);
     card.dataset.search = (row.title + ' ' + row.activity + ' ' + row.topic + ' ' + row.unitLabel).toLowerCase();
 
-    const chips = row.resources.map(r =>
-      `<span class="chip ${r.kind === 'Cyber.org' ? 'cyberorg' : ''}">${escapeHtml(r.kind)}: ${escapeHtml(r.label)}</span>`
-    ).join('');
+    const chips = row.resources.map(r => {
+      const cls = 'chip' + (r.kind === 'Cyber.org' ? ' cyberorg' : '') + (r.url ? ' link' : '');
+      const text = `${escapeHtml(r.kind)}: ${escapeHtml(r.label)}`;
+      return r.url
+        ? `<a class="${cls}" href="${escapeHtml(r.url)}" target="_blank" rel="noopener">${text}</a>`
+        : `<span class="${cls}">${text}</span>`;
+    }).join('');
 
     card.innerHTML = `
       <div class="row1">

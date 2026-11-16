@@ -138,6 +138,9 @@ main{ max-width:1180px; margin:0 auto; padding:26px 6vw 60px 6vw; }
   color:var(--blue); background:#f4f8fd;
 }
 .chip.cyberorg{ color:#2c7a4a; background:#f0f9f2; border-color:#dcefe0; }
+a.chip{ text-decoration:none; }
+a.chip.link{ background:#fff7e0; border-color:#e6cf8a; color:#7a5a00; font-weight:600; }
+a.chip.link:hover{ background:#ffefba; }
 .anchor-note{ font-size:11.5px; color:#8a7530; margin-top:8px; font-style:italic; }
 
 .no-results{ text-align:center; padding:40px; color:var(--sub); font-size:14px; }

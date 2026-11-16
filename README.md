@@ -25,7 +25,7 @@ Don't hand-edit `schedule.json` unless you have to — it's generated. If the sc
 2. Re-run the transform script that produced `schedule.json` and `meta.json` (ask me to regenerate it, or if you're comfortable with Python, the script is a short one that maps each session dict onto a date and writes the two JSON files).
 3. Replace `data/schedule.json` and `data/meta.json` in this folder — no other files need to change.
 
-If you just need to tweak wording on one lesson, editing the matching object in `schedule.json` directly is fine too — it's plain JSON, one object per session, with fields: `date`, `dateLabel`, `letter`, `unitKey`, `unitLabel`, `unitColor`, `topic`, `stype`, `stypeLabel`, `title`, `activity`, `resources` (array of `{label, kind}`), `anchor`.
+If you just need to tweak wording on one lesson, editing the matching object in `schedule.json` directly is fine too — it's plain JSON, one object per session, with fields: `date`, `dateLabel`, `letter`, `unitKey`, `unitLabel`, `unitColor`, `topic`, `stype`, `stypeLabel`, `title`, `activity`, `resources` (array of `{label, kind}`, plus an optional `url` that turns the chip into a link to a file or page), `anchor`. Student-facing lab files live in `assets/labs/`; keep answer keys and teacher guides out of this public folder.
 
 ## Publishing with GitHub Pages
 
